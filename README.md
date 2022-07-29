@@ -3,7 +3,7 @@
   <p>🎭 former theatre production stage manager with 9 years of exp</p>
   <p>🌈 part of the LGBTQIA+ community</p>
 <hr>
-<h3>📖 Now Learning</h3>
+<h3>📖 Learning</h3>
   <h4>Udemy</h4>
     <ul>
       <li><a href="https://udemy.com/course/the-complete-web-development-bootcamp/">Full stack development</a> by Dr. Angela Yu</li>
