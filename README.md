@@ -25,10 +25,6 @@
       <td>Mar - Jun 2022</td>
       <td>went through cloud & devops bootcamp</td>
     </tr>
-    <tr>
-      <td>Jan 2022</td>
-      <td>the month i decided to switch my career</td>
-    </tr>
   </table>
  <br> 
  <p>✨this page was made possible thanks to the full stack course by dr angela yu in udemy✨</p>
