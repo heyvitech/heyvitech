@@ -11,7 +11,7 @@
    <h4>Codecademy</h4>
     <a href="https://www.codecademy.com/learn/paths/computer-science">Computer science career path</a><br>
 <hr>
-<h3>What's On</h3>
+<h3>Timeline</h3>
    <table>
     <tr>
       <td>Jul 2022</td>
@@ -20,6 +20,10 @@
     <tr>
       <td>Mar - Jun 2022</td>
       <td>went through cloud & devops bootcamp</td>
+    </tr>
+    <tr>
+      <td>Jan 2022</td>
+      <td>the month i decided to switch my career</td>
     </tr>
   </table>
  <br> 
