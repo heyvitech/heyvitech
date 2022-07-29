@@ -1,4 +1,4 @@
-<h2>Hello 👋🏻, I'm Vivi</h2>
+<h2>Hey, I'm Vivi 👋🏻</h2>
   <p>👩🏻‍💻 aspiring software engineer</p>
   <p>🎭 former theatre production stage manager with 9 years of exp</p>
   <p>🌈 part of the LGBTQIA+ community</p>
