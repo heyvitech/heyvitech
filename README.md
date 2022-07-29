@@ -5,11 +5,15 @@
 <hr>
 <h3>📖 Now Learning</h3>
   <h4>Udemy</h4>
-    <a href="https://udemy.com/course/the-complete-web-development-bootcamp/">Full stack development</a> by Dr. Angela Yu<br>
-    <a href="https://nlbsg.udemy.com/course/az900-azure/">Microsoft AZ-900 certification</a> by Scott Duffy<br>
-    <a href="https://nlbsg.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/">Basics of GitLab CI/CD pipelines</a> by Valentin Despa<br>
+    <ul>
+      <li><a href="https://udemy.com/course/the-complete-web-development-bootcamp/">Full stack development</a> by Dr. Angela Yu</li>
+      <li><a href="https://nlbsg.udemy.com/course/az900-azure/">Microsoft AZ-900 certification</a> by Scott Duffy</li>
+      <li><a href="https://nlbsg.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/">Basics of GitLab CI/CD pipelines</a> by Valentin Despa</li>
+    </ul>
    <h4>Codecademy</h4>
-    <a href="https://www.codecademy.com/learn/paths/computer-science">Computer science career path</a><br>
+     <ul>
+      <li><a href="https://www.codecademy.com/learn/paths/computer-science">Computer science career path</a></li>
+     </ul>
 <hr>
 <h3>⏳ Timeline</h3>
    <table>
