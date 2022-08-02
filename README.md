@@ -6,6 +6,7 @@
 <h3>📖 Learning</h3>
    <h4>Codecademy</h4>
      <ul>
+      <li><a href="https://www.codecademy.com/learn/paths/build-chatbots-with-python">Build chatbots with Python</a></li>
       <li><a href="https://www.codecademy.com/learn/paths/computer-science">Computer science career path</a></li>
      </ul>
    <h4>Udemy</h4>
