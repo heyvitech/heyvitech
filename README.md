@@ -1,9 +1,5 @@
 <h1>Hey, I'm Vivi 👋🏻</h1>
 <h3>📖 Learning</h3>
-   <h4>Codecademy</h4>
-     <ul>
-      <li><a href="https://www.codecademy.com/learn/paths/computer-science">Computer science career path</a></li>
-     </ul>
    <h4>Udemy</h4>
     <ul>
       <li><a href="https://udemy.com/course/the-complete-web-development-bootcamp/">Full stack development</a> by Dr. Angela Yu</li>
