@@ -1,10 +1,9 @@
 <h1>Hey, I'm Vivi 👋🏻</h1>
 <h3>📖 Learning</h3>
-   <h4>Udemy</h4>
     <ul>
-      <li><a href="https://udemy.com/course/the-complete-web-development-bootcamp/">Full stack development</a> by Dr. Angela Yu</li>
-      <li><a href="https://nlbsg.udemy.com/course/az900-azure/">Microsoft AZ-900 certification</a> by Scott Duffy</li>
-      <li><a href="https://nlbsg.udemy.com/course/100-days-of-code/">100 days of Python coding</a> by Dr. Angela Yu</li>
+      <li><a href="https://www.coursera.org/professional-certificates/google-it-support/">Google IT Support</a> via Coursera</li>
+      <li><a href="https://udemy.com/course/the-complete-web-development-bootcamp/">Full stack development</a> by Dr. Angela Yu on Udemy</li>
+      <li><a href="https://nlbsg.udemy.com/course/az900-azure/">Microsoft AZ-900 certification</a> by Scott Duffy on Udemy</li>
     </ul>
 <hr>
 <h3>⏳ Timeline</h3>
