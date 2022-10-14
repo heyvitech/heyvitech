@@ -2,6 +2,7 @@
 <h3>📖 Learning</h3>
     <ul>
       <li><a href="https://www.coursera.org/professional-certificates/google-it-support/">Google IT Support</a> via Coursera</li>
+      <li><a href="https://www.codecademy.com/learn/paths/computer-science">Computer Science</a> on Codecademy</li>
       <li><a href="https://udemy.com/course/the-complete-web-development-bootcamp/">Full stack development</a> by Dr. Angela Yu on Udemy</li>
       <li><a href="https://nlbsg.udemy.com/course/az900-azure/">Microsoft AZ-900 certification</a> by Scott Duffy on Udemy</li>
     </ul>
