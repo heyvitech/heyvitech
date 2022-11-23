@@ -10,7 +10,7 @@
    <table>
     <tr>
       <td>Jul 2022</td>
-      <td>apprenticeship with lexly.tech</td>
+      <td>apprenticeship with Lexly</td>
     </tr>
     <tr>
       <td>Mar - Jun 2022</td>
