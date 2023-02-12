@@ -13,7 +13,7 @@
    <table>
     <tr>
       <td>Jan 2023</td>
-      <td>started on The Coud Resume Challenge</td>
+      <td>Got in to JuniorDevSG Mentorship Programme</td>
     </tr>
     <tr>
       <td>Dec 2022</td>
